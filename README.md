@@ -9,7 +9,7 @@
  ## Observable trends
  
 1. Mouse ID g989 had duplicate varying tumor sizes at the same timepoints and had to therefor be excluded in the analysis
-2. Capomulin and Ramicane had the lowest tumor volum of 40.68 mm and 40.22 mm respectively. 
+2. Capomulin and Ramicane had the lowest tumor volume of 40.68 mm and 40.22 mm respectively. 
 They both were also the only drug regimens that had a standard error below 5, implying the more reliable choice. 
 Furthermore, they were the most popular drug regimen with at 230 and 228 mices respectively.
 3. There is a potential outlier in the Infubinol regimen as a mouse had a tumour volume (36.32 mm) below the lower bound (36.83 mm). 
